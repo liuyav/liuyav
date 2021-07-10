@@ -1,0 +1,23 @@
+{
+  "name": "liuyav",
+  "version": "1.0.0",
+  "description": "<!--\r **liuyav/liuyav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyav/liuyav.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyav/liuyav/issues"
+  },
+  "homepage": "https://github.com/liuyav/liuyav#readme",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
+}
